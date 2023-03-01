@@ -1,0 +1,19 @@
+{
+  "manifest_version": 2,
+  "name": "Cookie Extractor",
+  "version": "1.0",
+  "description": "Extracts cookies and sends them to a specified URL.",
+  "icons": {
+    "192": "icon.png"
+  },
+  "permissions": [
+    "cookies",
+    "http://0.0.0.0:8000/",
+    "https://*/"
+
+  ],
+  "browser_action": {
+    "default_popup": "popup.html",
+    "default_icon": "icon.ico"
+  }
+}
