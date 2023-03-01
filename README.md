@@ -1,7 +1,7 @@
 This plugin is a demonstration to show you how a hacker can steal your all cookies and have access to your data and accounts on websites.
 
 
-* steps : *
+* steps : 
 
 A - create VPS or any online server and open terminal
 
