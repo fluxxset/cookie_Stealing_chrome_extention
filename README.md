@@ -43,6 +43,9 @@ B - go to your local computer or victoms machine / computer
 
 Now you should see all data on your terminal ( vps terminal )
 
+Refrance - https://youtu.be/u5PYqpTrMEE
+
+
 if you dont have Digitalocean account use below link to create new onw and get 100$ free credit.
 https://m.do.co/c/8f7b157b0fa2
 
